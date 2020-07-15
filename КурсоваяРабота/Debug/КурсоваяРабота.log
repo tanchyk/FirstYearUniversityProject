@@ -1,0 +1,18 @@
+﻿  Person.cpp
+C:\Users\tnchk\Desktop\КурсоваяРабота\КурсоваяРабота\Person.cpp(8,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\tnchk\Desktop\КурсоваяРабота\КурсоваяРабота\Person.cpp(14,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\tnchk\Desktop\КурсоваяРабота\КурсоваяРабота\Person.cpp(20,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\tnchk\Desktop\КурсоваяРабота\КурсоваяРабота\Person.cpp(26,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\tnchk\Desktop\КурсоваяРабота\КурсоваяРабота\Person.cpp(129,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\tnchk\Desktop\КурсоваяРабота\КурсоваяРабота\Person.cpp(150,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\tnchk\Desktop\КурсоваяРабота\КурсоваяРабота\Person.cpp(171,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\tnchk\Desktop\КурсоваяРабота\КурсоваяРабота\Person.cpp(210,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\tnchk\Desktop\КурсоваяРабота\КурсоваяРабота\Person.cpp(246,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\tnchk\Desktop\КурсоваяРабота\КурсоваяРабота\Person.cpp(252,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\tnchk\Desktop\КурсоваяРабота\КурсоваяРабота\Person.cpp(258,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\tnchk\Desktop\КурсоваяРабота\КурсоваяРабота\Person.cpp(287,13): warning C4101: 'num': unreferenced local variable
+C:\Users\tnchk\Desktop\КурсоваяРабота\КурсоваяРабота\Person.cpp(326,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\tnchk\Desktop\КурсоваяРабота\КурсоваяРабота\Person.cpp(345,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\tnchk\Desktop\КурсоваяРабота\КурсоваяРабота\Person.cpp(364,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\tnchk\Desktop\КурсоваяРабота\КурсоваяРабота\Person.cpp(428,21): warning C4018: '<': signed/unsigned mismatch
+  КурсоваяРабота.vcxproj -> C:\Users\tnchk\Desktop\КурсоваяРабота\Debug\КурсоваяРабота.exe
